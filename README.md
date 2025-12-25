@@ -1,6 +1,6 @@
 # 🎮 Scene Switching Using Firebase (Unity + Android APK)
 
-This project demonstrates a **real-time scene control system** where a **mobile Android application (APK)** is used to remotely control **scene transitions in a Unity application** using **Firebase Realtime Database**.
+This project demonstrates a **real-time scene control system** where a **mobile Android application (APK)** remotely controls **scene transitions in a Unity application** using **Firebase Realtime Database**.
 
 The system enables seamless communication between a mobile controller and Unity, making it suitable for **VR/AR projects, simulations, training systems, and remote-controlled Unity applications**.
 
@@ -32,7 +32,7 @@ This approach removes the need for physical input devices and allows **wireless,
 ## 🛠️ Technology Stack
 
 | Component | Technology |
-|--------|------------|
+|---------|------------|
 | Game Engine | Unity (C#) |
 | Backend | Firebase Realtime Database |
 | Mobile App | Android APK |
@@ -102,10 +102,10 @@ Unity continuously listens for changes in Firebase.
 3. Firebase triggers an update  
 4. Unity loads the corresponding scene  
 
-This allows:
+This enables:
 - Remote scene switching  
 - Smooth scene transitions  
-- External device control  
+- External device-based control  
 
 ---
 
@@ -153,7 +153,7 @@ Install this APK on any Android device to remotely control Unity scenes.
 - 📊 Usage analytics  
 - 📱 iOS controller application  
 - 🕹️ Multi-user scene control  
-- ⏲️ Automated scene switching  
+- ⏲️ Automated and scheduled scene switching  
 
 ---
 
