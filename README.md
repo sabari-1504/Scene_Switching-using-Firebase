@@ -67,8 +67,8 @@ The mobile application acts as a **remote controller** for Unity scenes.
 ### 📸 APK Screenshots
 
 <p align="center">
-  <img src="Screen_Shots/apk1.jpeg" width="300"/>
-  <img src="Screen_Shots/apk2.jpeg" width="300"/>
+  <img src="Screen _Shots/apk1.jpeg" width="300"/>
+  <img src="Screen _Shots/apk2.jpeg" width="300"/>
 </p>
 
 ---
@@ -86,8 +86,8 @@ Firebase works as the **bridge** between the Android app and Unity.
 ### 📸 Firebase Screenshots
 
 <p align="center">
-  <img src="Screen_Shots/sc1.png" width="400"/>
-  <img src="Screen_Shots/sc2.png" width="400"/>
+  <img src="Screen _Shots/sc1.png" width="400"/>
+  <img src="Screen _Shots/sc2.png" width="400"/>
 </p>
 
 ---
