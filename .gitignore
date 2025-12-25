@@ -35,3 +35,7 @@ ServerData/
 
 # Crash reports
 sysinfo.txt
+
+.utmp/
+.vsconfig
+Scene_Control_BurstDebugInformation_DoNotShip/
